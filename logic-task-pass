@@ -1,0 +1,27 @@
+#Q1
+'''def deletchar(word):
+    print(word[ :-1])
+deletchar(input("enter the word: "))'''
+#Q2
+'''lower_value = 1  
+upper_value = 100  
+ 
+for number in range (lower_value, upper_value + 1):  
+    if number > 1:  
+        for i in range (2, number):  
+            if (number % i) == 0:  
+                break  
+        else:  
+            print (number)'''
+#Q3
+'''ount = 0
+st = "Ali Falah"
+char = "a"
+
+for i in st:
+    if i == char:
+        ount += 1
+
+print(ount)'''
+
+    
